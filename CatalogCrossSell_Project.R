@@ -1,3 +1,8 @@
+####################################################################################################
+# Catalog Sales Association Analysis (Market Busket Analysis)
+# Author: Xuan(Zoe) Wu                Date: 12/04/2019
+####################################################################################################
+
 install.packages("arules")
 install.packages("arulesViz")
 library(arules)
